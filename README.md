@@ -1,6 +1,6 @@
 # PHP Async Socket
 
-## Howto Installation and Quickstart  Documentation
+## [Howto Installation and Quickstart  Documentation](https://github.com/AysadKozanoglu/socket/wiki)
 
 https://github.com/AysadKozanoglu/socket/wiki
 
