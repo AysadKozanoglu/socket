@@ -1,0 +1,45 @@
+{
+    "name": "dazzle-php/socket",
+    "description": "Dazzle Asynchronous Socket.",
+    "keywords": [
+        "dazzle", "dazzle-php", "ipc", "inter", "inter-process", "message-driven", "sock", "socket", "tcp", "udp", "unix"
+    ],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/dazzle-php/socket/issues",
+        "source": "https://github.com/dazzle-php/socket"
+    },
+    "authors": [
+        {
+            "name":     "Kamil Jamroz",
+            "homepage": "https://github.com/khelle"
+        },
+        {
+            "name":     "The contributors",
+            "homepage": "http://github.com/dazzle-php/socket/contributors"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.7",
+        "dazzle-php/event": "0.5.*",
+        "dazzle-php/loop": "0.5.*",
+        "dazzle-php/stream": "0.5.*",
+        "dazzle-php/throwable": "0.5.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=4.8.0 <5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dazzle\\Socket\\": "src/Socket",
+            "Dazzle\\Socket\\Test\\": "test"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.5-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
