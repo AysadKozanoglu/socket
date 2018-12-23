@@ -1,6 +1,6 @@
 # Async Socket
 
-Howto Documentation
+## Howto Documentation
 
 https://github.com/AysadKozanoglu/socket/wiki
 
