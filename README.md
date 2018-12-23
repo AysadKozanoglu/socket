@@ -1,10 +1,11 @@
 # Async Socket
 
+Howto Documentation
 
-<br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/dazzle-php/dazzle/master/media/dazzle-x125.png" />
-</p>
+https://github.com/AysadKozanoglu/socket/wiki
+
+
+Thanks to : Dazzle
 
 ## Description
 
