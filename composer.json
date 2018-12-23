@@ -17,6 +17,10 @@
         {
             "name":     "The contributors",
             "homepage": "http://github.com/dazzle-php/socket/contributors"
+        },
+        {
+            "name":     "Aysad Kozanoglu",
+            "homepage": "https://github.com/AysadKozanoglu/socket/wiki"
         }
     ],
     "require": {
