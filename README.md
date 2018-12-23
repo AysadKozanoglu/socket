@@ -1,13 +1,5 @@
-# Dazzle Async Socket
+# Async Socket
 
-[![Build Status](https://travis-ci.org/dazzle-php/socket.svg)](https://travis-ci.org/dazzle-php/socket)
-[![Code Coverage](https://scrutinizer-ci.com/g/dazzle-php/socket/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/dazzle-php/socket/?branch=master)
-[![Code Quality](https://scrutinizer-ci.com/g/dazzle-php/socket/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/dazzle-php/socket/?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/dazzle-php/socket/v/stable)](https://packagist.org/packages/dazzle-php/socket) 
-[![Latest Unstable Version](https://poser.pugx.org/dazzle-php/socket/v/unstable)](https://packagist.org/packages/dazzle-php/socket) 
-[![License](https://poser.pugx.org/dazzle-php/socket/license)](https://packagist.org/packages/dazzle-php/socket/license)
-
-> **Note:** This repository is part of [Dazzle Project](https://github.com/dazzle-php/dazzle) - the next-gen library for PHP. The project's purpose is to provide PHP developers with a set of complete tools to build functional async applications. Please, make sure you read the attached README carefully and it is guaranteed you will be surprised how easy to use and powerful it is. In the meantime, you might want to check out the rest of our async libraries in [Dazzle repository](https://github.com/dazzle-php) for the full extent of Dazzle experience.
 
 <br>
 <p align="center">
