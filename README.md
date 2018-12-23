@@ -1,4 +1,4 @@
-# Async Socket
+# PHP Async Socket
 
 ## Howto Documentation
 
